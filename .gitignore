@@ -11,3 +11,6 @@ __pycache__/
 
 # Configurações do editor
 .vscode/
+
+# Banco de Dados
+*.db
